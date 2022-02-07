@@ -1,0 +1,90 @@
+{"timestamp":"2022-02-05 03:38:30.8720","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 03:38:30.8770","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 03:38:30.8780","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 03:38:43.6210","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50783"}
+{"timestamp":"2022-02-05 03:38:43.6260","service":"tcp_server","level":"info","message":"Hello From Client 127.0.0.1 | Received 27 bytes from 127.0.0.1:50783"}
+{"timestamp":"2022-02-05 03:38:43.6310","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50783"}
+{"timestamp":"2022-02-05 03:39:00.4290","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50784"}
+{"timestamp":"2022-02-05 03:39:00.4340","service":"tcp_server","level":"info","message":"Hello From Client 127.0.0.1 | Received 27 bytes from 127.0.0.1:50784"}
+{"timestamp":"2022-02-05 03:39:00.4380","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50784"}
+{"timestamp":"2022-02-05 03:39:10.9130","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50785"}
+{"timestamp":"2022-02-05 03:39:10.9170","service":"tcp_server","level":"info","message":"Hello From Client 127.0.0.1 | Received 27 bytes from 127.0.0.1:50785"}
+{"timestamp":"2022-02-05 03:39:10.9210","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50785"}
+{"timestamp":"2022-02-05 03:39:45.0650","service":"udp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 03:39:45.0680","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 03:39:45.0690","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 03:39:54.8370","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:49943"}
+{"timestamp":"2022-02-05 03:39:54.8390","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2022-02-05 03:39:54.8400","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:49943"}
+{"timestamp":"2022-02-05 03:39:54.8410","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2022-02-05 03:41:39.0980","service":"udp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 03:41:39.1010","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 03:41:39.1010","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 03:41:42.5830","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:49592"}
+{"timestamp":"2022-02-05 03:41:42.5850","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2022-02-05 03:41:42.5860","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:49592"}
+{"timestamp":"2022-02-05 03:41:42.5870","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2022-02-05 03:44:15.2190","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 03:44:15.2230","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 03:44:15.2240","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 03:44:23.1780","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50810"}
+{"timestamp":"2022-02-05 03:44:23.1830","service":"tcp_server","level":"info","message":"Hello From Client 127.0.0.1 | Received 27 bytes from 127.0.0.1:50810"}
+{"timestamp":"2022-02-05 03:44:23.1880","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50810"}
+{"timestamp":"2022-02-05 03:47:29.0030","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 03:47:29.0070","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 03:47:29.0080","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 03:47:30.9370","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50825"}
+{"timestamp":"2022-02-05 03:47:30.9420","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:50825"}
+{"timestamp":"2022-02-05 03:47:30.9460","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50825"}
+{"timestamp":"2022-02-05 03:48:44.0010","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50828"}
+{"timestamp":"2022-02-05 03:48:44.0060","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:50828"}
+{"timestamp":"2022-02-05 03:48:44.0090","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50828"}
+{"timestamp":"2022-02-05 04:39:15.1320","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 04:39:15.1360","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 04:39:15.1360","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 04:39:21.1520","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65500"}
+{"timestamp":"2022-02-05 04:39:21.1560","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65500"}
+{"timestamp":"2022-02-05 04:39:21.1610","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:65500"}
+{"timestamp":"2022-02-05 04:39:30.4170","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65501"}
+{"timestamp":"2022-02-05 04:39:30.4220","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65501"}
+{"timestamp":"2022-02-05 04:39:30.4260","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:65501"}
+{"timestamp":"2022-02-05 04:39:36.7710","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65502"}
+{"timestamp":"2022-02-05 04:39:36.7760","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65502"}
+{"timestamp":"2022-02-05 04:39:36.7800","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:65502"}
+{"timestamp":"2022-02-05 04:40:19.9780","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65509"}
+{"timestamp":"2022-02-05 04:40:19.9840","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65509"}
+{"timestamp":"2022-02-05 04:41:01.8990","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 04:41:01.9030","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 04:41:01.9040","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 04:41:09.3990","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65512"}
+{"timestamp":"2022-02-05 04:41:09.4040","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65512"}
+{"timestamp":"2022-02-05 04:42:14.0370","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 04:42:14.0400","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 04:42:14.0410","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 04:42:16.4070","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:65518"}
+{"timestamp":"2022-02-05 04:42:16.4120","service":"tcp_server","level":"info","message":"Olá Cliente127.0.0.1 | Received 21 bytes from 127.0.0.1:65518"}
+{"timestamp":"2022-02-05 04:42:16.4180","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:65518"}
+{"timestamp":"2022-02-05 04:59:00.2160","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 04:59:00.2260","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 04:59:00.2320","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 04:59:03.5190","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50287"}
+{"timestamp":"2022-02-05 04:59:08.8070","service":"tcp_server","level":"info","message":"eu127.0.0.1 | Received 11 bytes from 127.0.0.1:50287"}
+{"timestamp":"2022-02-05 04:59:08.8120","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50287"}
+{"timestamp":"2022-02-05 04:59:48.6310","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50292"}
+{"timestamp":"2022-02-05 05:00:03.0060","service":"tcp_server","level":"info","message":"Nero 127.0.0.1 | Received 14 bytes from 127.0.0.1:50292"}
+{"timestamp":"2022-02-05 05:00:03.0100","service":"tcp_server","level":"info","message":"Socket closed with 127.0.0.1:50292"}
+{"timestamp":"2022-02-05 05:00:51.5070","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:00:54.6780","service":"tcp_server","level":"info","message":"oi 127.0.0.1 | Received 12 bytes from 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:00:57.9010","service":"tcp_server","level":"info","message":"eu 127.0.0.1 | Received 24 bytes from 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:01:02.4060","service":"tcp_server","level":"info","message":"estou 127.0.0.1 | Received 39 bytes from 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:01:04.4770","service":"tcp_server","level":"info","message":"aqui 127.0.0.1 | Received 53 bytes from 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:01:33.7490","service":"tcp_server","level":"info","message":"clear 127.0.0.1 | Received 68 bytes from 127.0.0.1:50307"}
+{"timestamp":"2022-02-05 05:02:15.8610","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 05:02:15.8640","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 05:02:15.8640","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 05:02:35.9340","service":"tcp_server","level":"info","message":"Server is listening at port 21000"}
+{"timestamp":"2022-02-05 05:02:35.9380","service":"tcp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2022-02-05 05:02:35.9380","service":"tcp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2022-02-05 05:02:41.2200","service":"tcp_server","level":"info","message":"Connected at 127.0.0.1:50317"}
+{"timestamp":"2022-02-05 05:02:46.5340","service":"tcp_server","level":"info","message":"nero 127.0.0.1 | Received 14 bytes from 127.0.0.1:50317"}
+{"timestamp":"2022-02-05 05:03:03.1100","service":"tcp_server","level":"info","message":"pedro 127.0.0.1 | Received 29 bytes from 127.0.0.1:50317"}

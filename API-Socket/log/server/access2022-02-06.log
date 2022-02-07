@@ -1,0 +1,77 @@
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 04:10:26.6680"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 04:10:26.6970"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 04:10:26.7020"}
+{"level":"info","message":"Connected at 127.0.0.1:56997","service":"tcp_server","timestamp":"2022-02-06 04:11:06.7890"}
+{"level":"info","message":"nero 127.0.0.1 | Received 14 bytes from 127.0.0.1:56997","service":"tcp_server","timestamp":"2022-02-06 04:11:11.4610"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 04:13:34.4120"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 04:13:34.4150"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 04:13:34.4160"}
+{"level":"info","message":"Connected at 127.0.0.1:57018","service":"tcp_server","timestamp":"2022-02-06 04:14:20.6620"}
+{"level":"info","message":"POST /usuario HTTP/1.1\r\nHost: localhost:3000\r\nUser-Agent: insomnia/2021.7.2\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 48\r\n\r\n{\n\t\"nome\": \"Geraldo\",\n\t\"email\": \"ge@gmail.com\"\n} | Received 192 bytes from 127.0.0.1:57018","service":"tcp_server","timestamp":"2022-02-06 04:14:20.6760"}
+{"level":"info","message":"Connected at 127.0.0.1:57025","service":"tcp_server","timestamp":"2022-02-06 04:15:32.8940"}
+{"level":"info","message":"Server is listening at port 3000","service":"udp_server","timestamp":"2022-02-06 04:21:29.5010"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"udp_server","timestamp":"2022-02-06 04:21:29.5040"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"udp_server","timestamp":"2022-02-06 04:21:29.5060"}
+{"level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:62930","service":"udp_server","timestamp":"2022-02-06 04:22:08.5520"}
+{"level":"info","message":"Data sent !!!","service":"udp_server","timestamp":"2022-02-06 04:22:08.5540"}
+{"level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:62930","service":"udp_server","timestamp":"2022-02-06 04:22:08.5550"}
+{"level":"info","message":"Data sent !!!","service":"udp_server","timestamp":"2022-02-06 04:22:08.5560"}
+{"level":"info","message":"Socket is closed !","service":"udp_server","timestamp":"2022-02-06 04:47:24.1030"}
+{"level":"info","message":"Server is listening at port 3000","service":"udp_server","timestamp":"2022-02-06 04:47:33.1670"}
+{"level":"info","message":"Server ip :::","service":"udp_server","timestamp":"2022-02-06 04:47:33.1700"}
+{"level":"info","message":"Server is IP4/IP6 : IPv6","service":"udp_server","timestamp":"2022-02-06 04:47:33.1710"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 20:56:31.9120"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 20:56:31.9290"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 20:56:31.9310"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 20:59:02.9000"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 20:59:02.9040"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 20:59:02.9050"}
+{"level":"info","message":"Connected at 127.0.0.1:51992","service":"tcp_server","timestamp":"2022-02-06 20:59:17.9480"}
+{"level":"info","message":"olá  | Received 5 bytes from 127.0.0.1:51992","service":"tcp_server","timestamp":"2022-02-06 20:59:22.2460"}
+{"level":"info","message":"tudo bem?  | Received 15 bytes from 127.0.0.1:51992","service":"tcp_server","timestamp":"2022-02-06 20:59:36.7410"}
+{"level":"info","message":"Connected at 127.0.0.1:52021","service":"tcp_server","timestamp":"2022-02-06 21:01:57.1810"}
+{"level":"info","message":"olá  | Received 5 bytes from 127.0.0.1:52021","service":"tcp_server","timestamp":"2022-02-06 21:02:01.0540"}
+{"level":"info","message":"bão  | Received 20 bytes from 127.0.0.1:51992","service":"tcp_server","timestamp":"2022-02-06 21:02:09.2770"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:06:34.2280"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:06:34.2330"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:06:34.2340"}
+{"level":"info","message":"Connected at 127.0.0.1:52052","service":"tcp_server","timestamp":"2022-02-06 21:06:38.0440"}
+{"level":"info","message":"salve  | Received 6 bytes from 127.0.0.1:52052","service":"tcp_server","timestamp":"2022-02-06 21:06:43.0130"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:11:53.0950"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:11:53.0990"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:11:53.1000"}
+{"level":"info","message":"Connected at 127.0.0.1:52102","service":"tcp_server","timestamp":"2022-02-06 21:11:59.8440"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:12:31.3290"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:12:31.3330"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:12:31.3330"}
+{"level":"info","message":"Connected at 127.0.0.1:52110","service":"tcp_server","timestamp":"2022-02-06 21:12:36.1790"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:13:10.9300"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:13:10.9330"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:13:10.9340"}
+{"level":"info","message":"Connected at 127.0.0.1:52115","service":"tcp_server","timestamp":"2022-02-06 21:13:12.5110"}
+{"level":"info","message":"\n\n","service":"tcp_server","timestamp":"2022-02-06 21:13:14.5100"}
+{"level":"info","message":"\n\n","service":"tcp_server","timestamp":"2022-02-06 21:13:25.5890"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:14:05.5080"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:14:05.5110"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:14:05.5130"}
+{"level":"info","message":"Connected at 127.0.0.1:52119","service":"tcp_server","timestamp":"2022-02-06 21:14:09.6820"}
+{"level":"info","message":"olá  | Received 5 bytes from 127.0.0.1:52119","service":"tcp_server","timestamp":"2022-02-06 21:14:13.8380"}
+{"level":"info","message":"bem?  | Received 10 bytes from 127.0.0.1:52119","service":"tcp_server","timestamp":"2022-02-06 21:14:19.6790"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:15:32.6070"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:15:32.6110"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:15:32.6110"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:16:08.5650"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:16:08.5700"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:16:08.5710"}
+{"level":"info","message":"opa  | Received 4 bytes from 127.0.0.1:52144","service":"tcp_server","timestamp":"2022-02-06 21:16:17.3010"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:18:36.0950"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:18:36.0990"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:18:36.0990"}
+{"level":"info","message":"Server is listening at port 3000","service":"tcp_server","timestamp":"2022-02-06 21:19:18.2050"}
+{"level":"info","message":"Server ip :0.0.0.0","service":"tcp_server","timestamp":"2022-02-06 21:19:18.2080"}
+{"level":"info","message":"Server is IP4/IP6 : IPv4","service":"tcp_server","timestamp":"2022-02-06 21:19:18.2080"}
+{"level":"info","message":"salve  | Received 6 bytes from 127.0.0.1:52187","service":"tcp_server","timestamp":"2022-02-06 21:22:03.0540"}
+{"level":"info","message":"olá ","service":"tcp_server","timestamp":"2022-02-06 21:22:54.9510"}
+{"level":"info","message":"tudo bem? ","service":"tcp_server","timestamp":"2022-02-06 21:23:02.4540"}
+{"level":"info","message":"to bem e você? ","service":"tcp_server","timestamp":"2022-02-06 21:23:25.9190"}
+{"level":"info","message":"olá ","service":"tcp_server","timestamp":"2022-02-06 21:26:33.7510"}

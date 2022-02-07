@@ -15,7 +15,10 @@
       "morgan": "^1.10.0",
       "mysql": "^2.14.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.25"
+      "typeorm": "0.2.25",
+      "moment": "^2.24.0",
+      "winston": "^3.2.1",
+      "winston-daily-rotate-file": "^3.8.0"
    },
    "scripts": {
       "dev": "nodemon --exec ts-node src/server.ts",

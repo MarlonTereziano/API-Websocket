@@ -1,0 +1,5 @@
+ IPv4-127.0.0.1:54074>Novo cliente conectado no socket 54074
+ IPv4-127.0.0.1:54438>Novo cliente conectado no socket 54438
+ IPv4-127.0.0.1:54438>boa noitew
+ IPv4-127.0.0.1:54074>tudo bem?
+ IPv4-127.0.0.1:50161>Novo cliente conectado no socket 50161
