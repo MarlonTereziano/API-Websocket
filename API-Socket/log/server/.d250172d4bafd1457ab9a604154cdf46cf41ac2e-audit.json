@@ -9,6 +9,11 @@
             "date": 1644131426649,
             "name": "log\\server\\access2022-02-06.log",
             "hash": "21b64a6cd3f8f1c7a4806312f465c7fb"
+        },
+        {
+            "date": 1644203466271,
+            "name": "log\\server\\access2022-02-07.log",
+            "hash": "053794296fc0e1020e37fa3065570f0c"
         }
     ]
 }

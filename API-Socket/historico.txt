@@ -3,3 +3,154 @@
  IPv4-127.0.0.1:54438>boa noitew
  IPv4-127.0.0.1:54074>tudo bem?
  IPv4-127.0.0.1:50161>Novo cliente conectado no socket 50161
+ IPv4-127.0.0.1:52680>Novo cliente conectado no socket 52680
+ IPv4-127.0.0.1:50162>Novo cliente conectado no socket 50162
+ IPv4-127.0.0.1:52680>ola
+ IPv4-127.0.0.1:50162>tudo bem ?
+ IPv4-127.0.0.1:52680>tudo bem e aí?
+ IPv4-127.0.0.1:50162>tudo certo!
+ IPv4-127.0.0.1:50162>
+ IPv4-127.0.0.1:52680>
+ IPv4-127.0.0.1:52680>bão!
+ IPv4-127.0.0.1:50162>bão também
+ IPv4-127.0.0.1:49274>Novo cliente conectado no socket 49274
+ IPv4-127.0.0.1:65504>Novo cliente conectado no socket 65504
+ IPv4-127.0.0.1:65504>ola
+ IPv4-127.0.0.1:63064>Novo cliente conectado no socket 63064
+ IPv4-127.0.0.1:63582>Novo cliente conectado no socket 63582
+ IPv4-127.0.0.1:49851>Novo cliente conectado no socket 49851
+ IPv4-127.0.0.1:49851>boa noite
+ IPv4-127.0.0.1:63582>tudo certo?
+ IPv4-127.0.0.1:63582>bom?
+ IPv4-127.0.0.1:49851>bom demais
+ IPv4-127.0.0.1:63582>Char em funcionamento
+ IPv4-127.0.0.1:49851>funcionando sim!
+ IPv4-127.0.0.1:49851>Aqui estamos
+ IPv4-127.0.0.1:63582>top
+ IPv4-127.0.0.1:63582>teste envio de mensagem
+ IPv4-127.0.0.1:53215>Novo cliente conectado no socket 53215
+ IPv4-127.0.0.1:53215>das
+ IPv4-127.0.0.1:53215>2
+ IPv4-127.0.0.1:53215>meu
+ IPv4-127.0.0.1:53215>top
+ IPv4-127.0.0.1:59834>Novo cliente conectado no socket 59834
+ IPv4-127.0.0.1:55146>Novo cliente conectado no socket 55146
+ IPv4-127.0.0.1:53275>Novo cliente conectado no socket 53275
+ IPv4-127.0.0.1:53034>Novo cliente conectado no socket 53034
+ IPv4-127.0.0.1:50851>Novo cliente conectado no socket 50851
+ IPv4-127.0.0.1:57936>Novo cliente conectado no socket 57936
+ IPv4-127.0.0.1:54073>Novo cliente conectado no socket 54073
+ IPv4-127.0.0.1:57663>Novo cliente conectado no socket 57663
+ IPv4-127.0.0.1:58072>Novo cliente conectado no socket 58072
+ IPv4-127.0.0.1:51856>Novo cliente conectado no socket 51856
+ IPv4-127.0.0.1:50986>Novo cliente conectado no socket 50986
+ IPv4-127.0.0.1:50516>Novo cliente conectado no socket 50516
+ IPv4-127.0.0.1:62567>Novo cliente conectado no socket 62567
+ IPv4-127.0.0.1:61369>Novo cliente conectado no socket 61369
+ IPv4-127.0.0.1:62844>Novo cliente conectado no socket 62844
+ IPv4-127.0.0.1:60401>Novo cliente conectado no socket 60401
+ IPv4-127.0.0.1:55061>Novo cliente conectado no socket 55061
+ IPv4-127.0.0.1:55062>Novo cliente conectado no socket 55062
+ IPv4-127.0.0.1:58599>Novo cliente conectado no socket 58599
+ IPv4-127.0.0.1:52562>Novo cliente conectado no socket 52562
+ IPv4-127.0.0.1:52562>w
+ IPv4-127.0.0.1:52562>e
+ IPv4-127.0.0.1:52562>as
+ IPv4-127.0.0.1:52562>a
+ IPv4-127.0.0.1:52562>cleart
+ IPv4-127.0.0.1:52562>clear
+ IPv4-127.0.0.1:62852>Novo cliente conectado no socket 62852
+ IPv4-127.0.0.1:58622>Novo cliente conectado no socket 58622
+ IPv4-127.0.0.1:55089>Novo cliente conectado no socket 55089
+ IPv4-127.0.0.1:55089>undefined teste
+ IPv4-127.0.0.1:55036>Novo cliente conectado no socket 55036
+ IPv4-127.0.0.1:55036>Geraldo teste
+ IPv4-127.0.0.1:65355>Novo cliente conectado no socket 65355
+ IPv4-127.0.0.1:65355>Geraldo: teste
+ IPv4-127.0.0.1:65355>Geraldo: opa 
+ IPv4-127.0.0.1:64000>Novo cliente conectado no socket 64000
+ IPv4-127.0.0.1:64000>Geraldo2: e ai glr
+ IPv4-127.0.0.1:65355>Geraldo: iae geraldo 2
+ IPv4-127.0.0.1:64000>Geraldo2: fala geraldo 1
+ IPv4-127.0.0.1:50332>Novo cliente conectado no socket 50332
+ IPv4-127.0.0.1:55555>Novo cliente conectado no socket 55555
+ IPv4-127.0.0.1:57736>Novo cliente conectado no socket 57736
+ IPv4-127.0.0.1:57315>Novo cliente conectado no socket 57315
+ IPv4-127.0.0.1:65027>Novo cliente conectado no socket 65027
+ IPv4-127.0.0.1:52252>Novo cliente conectado no socket 52252
+ IPv4-127.0.0.1:57929>Novo cliente conectado no socket 57929
+ IPv4-127.0.0.1:57929>Geraldo: teste
+ IPv4-127.0.0.1:57929>Geraldo: teste
+ IPv4-127.0.0.1:52310>Novo cliente conectado no socket 52310
+ IPv4-127.0.0.1:62086>Novo cliente conectado no socket 62086
+ IPv4-127.0.0.1:65103>Novo cliente conectado no socket 65103
+ IPv4-127.0.0.1:65461>Novo cliente conectado no socket 65461
+ IPv4-127.0.0.1:65060>Novo cliente conectado no socket 65060
+ IPv4-127.0.0.1:65060>Geraldo: 2
+ IPv4-127.0.0.1:65060>Geraldo: 3
+ IPv4-127.0.0.1:65060>Geraldo: 4
+ IPv4-127.0.0.1:65060>Geraldo: 4
+ IPv4-127.0.0.1:65060>Geraldo: asd
+ IPv4-127.0.0.1:65060>Geraldo: a
+ IPv4-127.0.0.1:65060>Geraldo: sd
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:65060>Geraldo: das
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: a
+ IPv4-127.0.0.1:65060>Geraldo: sdas
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: a
+ IPv4-127.0.0.1:65060>Geraldo: sda
+ IPv4-127.0.0.1:65060>Geraldo: sd
+ IPv4-127.0.0.1:65060>Geraldo: 
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: asd
+ IPv4-127.0.0.1:65060>Geraldo: 
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: a
+ IPv4-127.0.0.1:65060>Geraldo: sd
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:65060>Geraldo: das
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: sa
+ IPv4-127.0.0.1:65060>Geraldo: da
+ IPv4-127.0.0.1:65060>Geraldo: sdsa
+ IPv4-127.0.0.1:65060>Geraldo: das
+ IPv4-127.0.0.1:65060>Geraldo: d
+ IPv4-127.0.0.1:65060>Geraldo: as
+ IPv4-127.0.0.1:63026>Novo cliente conectado no socket 63026
+ IPv4-127.0.0.1:63026>Pedro: s
+ IPv4-127.0.0.1:63026>Pedro: s
+ IPv4-127.0.0.1:63026>Pedro: s
+ IPv4-127.0.0.1:63026>Pedro: sim
+ IPv4-127.0.0.1:63026>Pedro: bom
+ IPv4-127.0.0.1:63026>Pedro: deu 
+ IPv4-127.0.0.1:63026>Pedro: certo
+ IPv4-127.0.0.1:63026>Pedro: dhr
+ IPv4-127.0.0.1:62525>Novo cliente conectado no socket 62525
+ IPv4-127.0.0.1:62525>Geraldo: as
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: /deslogar
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:62525>Geraldo: /deslogar
+ IPv4-127.0.0.1:62525>Geraldo: asd
+ IPv4-127.0.0.1:60502>Novo cliente conectado no socket 60502
+ IPv4-127.0.0.1:60502>Geraldo: /deslogar
+ IPv4-127.0.0.1:56012>Novo cliente conectado no socket 56012
+ IPv4-127.0.0.1:56012>Geraldo: s
+ IPv4-127.0.0.1:56012>Geraldo: s
+ IPv4-127.0.0.1:61209>Novo cliente conectado no socket 61209
+ IPv4-127.0.0.1:61209>Geraldo: asdsa
+ IPv4-127.0.0.1:58480>Novo cliente conectado no socket 58480
+ IPv4-127.0.0.1:58480>Geraldo: asdasd
+ IPv4-127.0.0.1:58480>Geraldo: asadsasd

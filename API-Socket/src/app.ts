@@ -5,7 +5,6 @@ import * as logger from 'morgan';
 
 import { conectarServidorNoBD } from './config/db';
 import { routerUsuario } from './route/usuario';
-import { routerLancamento } from './route/lancamento';
 
 /**
  * Cria a aplicação
@@ -38,6 +37,5 @@ conectarServidorNoBD();
  */
 
 app.use('/usuario', routerUsuario);
-app.use('/lancamento', routerLancamento);
 app.use('/', (req, res) => res.send('API socket'));
 

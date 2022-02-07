@@ -48,8 +48,7 @@ function escreveArquivo(msg) {
 
 /* Servidor Express*/
 
-const server2 =
-    app.listen(PORTA, () => console.log(`App ouvindo na porta ${PORTA}`));
+const server2 = app.listen(3010, () => console.log(`App ouvindo na porta ${3010}`));
 
 process.on('SIGINT', () => {
     server2.close();

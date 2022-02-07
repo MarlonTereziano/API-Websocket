@@ -15,6 +15,12 @@ routerUsuario.post('/', async (req, res) => {
     res.json(usuarioSalvo);
 });
 
+/* Deletar um usuario */
+routerUsuario.delete('/:id', async (req, res) => {
+    const { id } = req.body;
+    const usuario = await usuarioCtrl.deletar(id);
+    res.json(usuario);
+});
 
 /**
  * Serviço para recuperar todos os usuários
@@ -24,11 +30,3 @@ routerUsuario.get('/', async (req, res) => {
     res.json(usuarios);
 });
 
-/**
- * Serviço para recuperar os lançamentos de um determinado usuário
- */
-routerUsuario.get('/lancamentos/:idUsuario', async (req, res) => {
-    const idUsuario = parseInt(req.params.idUsuario);
-    const lancamentos = await usuarioCtrl.recuperarLancamentosDoUsuario(idUsuario);
-    res.json(lancamentos);
-});

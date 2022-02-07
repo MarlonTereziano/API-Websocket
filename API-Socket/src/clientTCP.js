@@ -11,6 +11,7 @@ const rl = require('readline').createInterface({
 
 client.connect(conf.port, host, function() {
     console.log('Bem-Vindo, querido padawan do IF!')
+
     rl.addListener('line', line => {
         client.write(line + ' ')
     })

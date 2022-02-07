@@ -1,5 +1,4 @@
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from "typeorm";
-import { Lancamento } from "./Lancamento";
 
 @Entity()
 export class Usuario {
@@ -17,7 +16,4 @@ export class Usuario {
 
     @Column()
     email: string;
-
-    @OneToMany(() => Lancamento, lancamento => lancamento.usuario)
-    lancamentos: Lancamento[];
 }

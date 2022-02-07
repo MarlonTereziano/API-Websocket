@@ -75,3 +75,5 @@
 {"level":"info","message":"tudo bem? ","service":"tcp_server","timestamp":"2022-02-06 21:23:02.4540"}
 {"level":"info","message":"to bem e você? ","service":"tcp_server","timestamp":"2022-02-06 21:23:25.9190"}
 {"level":"info","message":"olá ","service":"tcp_server","timestamp":"2022-02-06 21:26:33.7510"}
+{"level":"info","message":"olá ","service":"tcp_server","timestamp":"2022-02-06 21:31:44.3900"}
+{"level":"info","message":"bão ? ","service":"tcp_server","timestamp":"2022-02-06 21:32:07.5100"}
