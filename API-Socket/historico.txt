@@ -154,3 +154,13 @@
  IPv4-127.0.0.1:58480>Novo cliente conectado no socket 58480
  IPv4-127.0.0.1:58480>Geraldo: asdasd
  IPv4-127.0.0.1:58480>Geraldo: asadsasd
+ IPv4-127.0.0.1:56330>Novo cliente conectado no socket 56330
+ IPv4-127.0.0.1:56330>Geraldo: Olá pessoal
+ IPv4-127.0.0.1:59044>Novo cliente conectado no socket 59044
+ IPv4-127.0.0.1:59044>Pedro: olá, Geraldo
+ IPv4-127.0.0.1:56330>Geraldo: teste
+ IPv4-127.0.0.1:59044>Pedro: teste dois
+ IPv4-127.0.0.1:56330>Geraldo: testando
+ IPv4-127.0.0.1:59044>Geraldo: asdasd
+ IPv4-127.0.0.1:56330>Geraldo: teste
+ IPv4-127.0.0.1:56330>Geraldo: dois
